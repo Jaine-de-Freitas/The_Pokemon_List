@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/08/28 22:57:38.000.322,=C:\Users\jaine\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/08/28 22:58:56.000.869,=C:\Users\jaine\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/08/28 22:59:42.000.382,C:\Users\jaine\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\jaine\OneDrive\Área de Trabalho\Pokemon 2.0\ThePokemonList.pas</Transaction>
+    <Transaction>2023/08/28 22:59:42.000.382,C:\Users\jaine\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\jaine\OneDrive\Área de Trabalho\Pokemon 2.0\ThePokemonList.dfm</Transaction>
+    <Transaction>2023/08/28 22:59:54.000.664,C:\Users\jaine\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\jaine\OneDrive\Área de Trabalho\Pokemon 2.0\Pokemon.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
